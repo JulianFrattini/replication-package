@@ -44,4 +44,4 @@ To use the files contained in this repository, first ensure that all system requ
 ## License
 
 Copyright © 2025 Julian Frattini.
-This work (source code) is licensed under [MIT License](./LICENSE).
+This work is licensed under [MIT License](./LICENSE).
