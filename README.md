@@ -30,11 +30,16 @@ This repository contains the following files:
 │   ├── figures: graphs and figures generated for the study
 │   └── presentations: slides and other material for publication
 ├── src: source code used in this study
+├── INSTALL.md : system requirements for this artifact
 └── LICENSE.md : license file clarifying reuse of this material
 ```
 
 > [!warning]
 > Add a disclaimer in case some files (e.g., original raw data) are obfuscated or missing due to sensitivity.
+
+## Usage
+
+To use the files contained in this repository, first ensure that all system requirements are met as specified in the [INSTALL.md](INSTALL.md) file.
 
 ## License
 
