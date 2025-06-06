@@ -17,6 +17,8 @@ This paragraph should be replaced by a short, high-level description of the stud
 
 In the best case, also add a [CITATION.cff](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) file to the repository, like in [JulianFrattini/**rqi-proto**](https://github.com/JulianFrattini/rqi-proto).
 
+You can also use generate like [CFFINIT](https://citation-file-format.github.io/cff-initializer-javascript/#/) to generate a `CITATION.cff` file.
+
 ## Description of Artifacts
 
 This repository contains the following files:
